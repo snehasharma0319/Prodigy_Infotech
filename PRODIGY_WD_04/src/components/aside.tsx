@@ -24,26 +24,26 @@ const Aside = () => {
     },
     {
       title: "LinkedIn",
-      link: "https://www.linkedin.com/in/jrtilak/",
+      link: "https://www.linkedin.com/in/snehasharma0319/",
       icon: <PiLinkedinLogoLight />,
-      value: "Tilak Thapa",
+      value: "snehasharma0319",
     },
     {
       title: "Github",
-      link: "https://www.github.com/jrtilak",
+      link: "https://github.com/snehasharma0319/",
       icon: <PiGithubLogoLight />,
-      value: "jrTilak",
+      value: "snehasharma0319",
     },
   ];
   const SOCIAK_LINKS = [
     {
       title: "Twitter",
-      link: "https://www.twitter.com/iamjrtilak",
+      link: "https://www.twitter.com/",
       icon: <FaXTwitter />,
     },
     {
       title: "Instagram",
-      link: "https://www.instagram.com/iamjrtilak",
+      link: "https://www.instagram.com/",
       icon: <CiInstagram />,
     },
   ];
@@ -57,7 +57,7 @@ const Aside = () => {
 
         <div className="info-content">
           <h1 className="name" title="Richard hanrick">
-            Tilak Thapa
+            Tilak Sharma
           </h1>
 
           <p className="title">Web Developer</p>

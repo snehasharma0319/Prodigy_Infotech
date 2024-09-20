@@ -101,7 +101,7 @@ export default function About() {
 
       <section className="about-text">
         <p>
-          🙋‍♂️ Greetings! I&apos;m Sneha Thapa(jrSneha), a passionate web
+          🙋‍♂️ Greetings! I&apos;m Sneha Sharma(jrSneha), a passionate web
           developer with more than 1 years of experience. I specialize web
           development in React and Next.js. I&apos;m also a huge fan of
           open-source. I&apos;m currently looking for opportunities to work as a
