@@ -18,9 +18,9 @@ const Aside = () => {
   const CONTACTS_LIST = [
     {
       title: "Email",
-      link: "mailto:iamjrtilak@gmail.com",
+      link: "mailto:sharmasneha0319@gmail.com",
       icon: <CiMail />,
-      value: "iamjrtilak@gmail.com",
+      value: "sharmasneha0319@gmail.com",
     },
     {
       title: "LinkedIn",
